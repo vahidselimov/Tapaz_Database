@@ -1,4 +1,5 @@
 Create database tapaz
+Use Tapaz
 
 create table Settings(
 Id int primary key identity,
